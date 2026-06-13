@@ -1,0 +1,13 @@
+# Python build/cache artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# System specific files
+.DS_Store
+Thumbs.db
